@@ -22,7 +22,7 @@ Skills: HTML / CSS/ Bootstrap /REACT/ JavaScript/ Node.js
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Hamidul-1&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Hamidul-1)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hamidul-1)  
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Hamidul-1)  
 
