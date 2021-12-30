@@ -26,7 +26,7 @@ Skills: HTML / CSS/ Bootstrap /REACT/ JavaScript/ Node.js
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Hamidul-1)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Hamidul-1)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hamidul-1)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/Hamidul-1)  
 
