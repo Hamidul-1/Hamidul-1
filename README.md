@@ -24,10 +24,10 @@ Skills: HTML / CSS/ Bootstrap /REACT/ JavaScript/ Node.js
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hamidul-1)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Hamidul-1)  
+![GitHub metrics](https://metrics.lecoq.io/Hamidul-1)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Hamidul-1)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Hamidul-1)  
+![Profile views](https://gpvc.arturio.dev/Hamidul-1)  
 
 
